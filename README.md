@@ -2,7 +2,6 @@
 Repository to store Over the Wire - Bandit - Solution Sets - All Levels
 
 This repository contains solutions sets, authored by Amar Chhabra, for all Over the Wire [OTW] - Bandit Levels [Level 0 through 34 as of 28 September 2023].
-**Note: All files may be referenced below.
 
 The OTW_Bandit_Solution_Set_Index spreadsheet maps levels to solution sets.
 
