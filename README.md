@@ -7,6 +7,8 @@ The OTW_Bandit_Solution_Set_Index spreadsheet maps levels to solution sets.
 
 The SSH folder contains directions to authenticate to the Over the Wire Bandit levels via SSH on Linux and Windows platforms.
 
+A PDF, titled OTW_Bandit_Passwords_Level_0_33, contains passwords to authenticate to each level.
+
 *******************************************************
 Over the Wire - Bandit - Website/URL
 *******************************************************
